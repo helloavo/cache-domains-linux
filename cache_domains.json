@@ -132,6 +132,11 @@
       "description": "Mirror List for Fedora 44 Everything repo",
       "domain_files": ["fedora-44-everything.txt"]
     },
+        {
+      "name": "Flathub",
+      "description": "Flathub Repo",
+      "domain_files": ["flathub.txt"]
+    },
     {
       "name": "xboxlive",
       "description": "CDN for Xbox Live",
