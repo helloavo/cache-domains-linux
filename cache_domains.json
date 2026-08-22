@@ -128,7 +128,7 @@
       "domain_files": ["windowsupdates.txt"]
     },
     {
-      "name": "fedora-44-everything",
+      "name": "Fedora44Everything",
       "description": "Mirror List for Fedora 44 Everything repo",
       "domain_files": ["fedora-44-everything.txt"]
     },
